@@ -1,0 +1,178 @@
+.bottom{
+    background-color: #f3f3f3;
+    border-top: 4px solid #f78e21;
+    margin-top: 60px;
+	}
+.bottom-form{
+    margin-top: 40px;
+}
+.bottom-form span{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #333;
+    text-transform: uppercase;
+    float: left;
+    margin-right: 26px;
+}
+.bottom-form1{
+    position: relative;
+    display: inline-block;
+}
+.put1{
+    padding: 4px 10px 4px 10px;
+    line-height: 34px;
+    height: 34px;
+    max-width: 280px;
+    width: 280px;
+    margin-top: 0px;
+    outline: 0;
+    border: none;
+    border-color: #f3f3f3;
+}
+.put2{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 34px;
+    height: 34px;
+    background: url(../images/subscribe-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+    background-color: transparent;
+    content: '';
+    margin-top: 0;
+    border: 0;
+}
+.social-bottom{
+    margin-top: 40px;
+    padding-bottom: 15px;
+}
+.social-bottom span{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #333;
+    text-transform: uppercase;
+    float: left;
+    margin-right: 26px;
+}
+.social-bottom li{
+    list-style: none;
+    display: inline-block;
+}
+.bo{
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+}
+.social-bottom li a{
+    background-color: #fff;
+    font-size: 22px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    color: #bbb;
+    text-decoration: none;
+}
+.social-bottom li a:hover{
+    background: #ff6709;
+    color: #FFFFFF;
+}
+.footer h4{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+.footer a{
+    text-decoration: none;
+}
+.footer_1 p,.bottom_footer p,.footer_4 p,.footer_4 li{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #666;
+}
+.footer_1 p a{
+    color: #ff6709;
+}
+.footer_2 ul li{
+    list-style: none;
+    margin: 10px 0;
+}
+.footer_2 a{
+    text-transform: uppercase;
+    color: #888;
+    font-size: 13px;
+}
+.footer_2 li a i{
+    font-size: 16px;
+    margin-right: 5px;
+    color: #f78e21;
+}
+.footer_2 li a:hover{
+    color: #f78e21;
+}
+.footer_3 .footer_post{
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.footer_post_thumb{
+
+    float: left;
+    margin-right: 20px;
+    width: 70px;
+    height: 70px;
+}
+.footer_post_info{
+    overflow: hidden;
+}
+.footer_post_info h6{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 0;
+
+}
+.footer_post_info h6 a{
+    color: black;
+}
+.footer_post_info span{
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #f78e21;
+}
+.footer_4 ul{
+    margin-top: 35px;
+}
+.footer_4 li{
+    margin: 10px 0;
+}
+.footer_4 .glyphicon{
+    position: relative;
+    top: 1px;
+    font-size: 16px;
+    color: #ff6709;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.footer_4 li a{
+    color: #ff6709;
+}
+.bottom_footer{
+    text-align: left;
+    padding: 60px 0 15px 0
+}
+.bottom_footer a{
+    color: #ff6709;
+}
